@@ -13,8 +13,7 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [资深开发工程师 - SaaS 开发](social/2.md)
 - [资深安全开发运维工程师](social/3.md)
 - [Senior Technical Writer 技术文档工程师](social/4.md)
-- [资深前端开发工程师](social/5.md)
-- [技术支持专家](social/6.md)![new](https://img.shields.io/badge/new-red)
+- [技术支持专家](social/6.md)![new](https://img.shields.io/badge/new-brightengreen)
 
 
 ## 实习生招聘

@@ -14,7 +14,9 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [资深安全开发运维工程师](social/3.md)
 - [Senior Technical Writer 技术文档工程师](social/4.md)
 - [技术支持专家](social/6.md)
-- [前端工程师](social/7.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [前端工程师](social/7.md)
+- [Android 资深测试开发工程师](social/8.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [安全大数据系统研发工程师](social/9.md)![new](https://img.shields.io/badge/new-brightengreen)
 
 
 ## 实习生招聘

@@ -17,11 +17,15 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [前端工程师](social/7.md)
 - [Android 资深测试开发工程师](social/8.md)![new](https://img.shields.io/badge/new-brightengreen)
 - [安全大数据系统研发工程师](social/9.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [资深开发工程师 - Cloud Service 开发](social/10.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [资深开发工程师 - Windows](social/11.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [资深开发工程师 - macOS](social/12.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [资深测试工程师](social/13.md)![new](https://img.shields.io/badge/new-brightengreen)
 
 
 ## 实习生招聘
 
-- [实习生 - 行政前台](intern/2.md)
+- [实习生 - 行政助理](intern/2.md)
 - [实习生 - MARS 威胁研究](intern/3.md)
 - [实习生 - MARS 开发](intern/4.md)
 - [实习生 - 开发测试](intern/5.md)

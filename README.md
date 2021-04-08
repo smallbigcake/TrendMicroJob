@@ -6,11 +6,14 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 
 推荐邮箱 cake_xu©trendmicro.com
 
+
 ## 校园招聘 (留用实习生，2022/2023 届)
 
 留用实习生项目是针对 2022 年 5 月 - 12 月期间毕业的在校生开展的暑期实习项目，旨在通过参与项目实习的方式，尽可能地帮助同学们在技术领域获得更丰富的信息，并指导他们在职业领域内不断提升自我以取得成功。我们期望这段实习经历能成为同学们展望前沿科技的瞭望塔，实践业界技术的体验营，未来职业发展的加油站 。
 
+
 ### 留用实习生项目将会为您提供如下福利：
+
 - 为期 8 周以上的暑期实习，我们将提供一对一的企业导师，带你提前体验工程师的 Daily Job，非南京本地高校的同学将额外提供租房津贴（具体实习入职时间可根据个人及学校情况灵活安排，原则上最晚入职时间不得晚于 2021 年 7 月 12 日）
 - 实习过程中表现优异的同学将直接发放正式校招 offer
 - 26 个花样俱乐部，解锁暑期新技能
@@ -27,6 +30,8 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - 渴望站在世界的舞台，创造世界级的产品及服务
 - 喜欢与国际极客团队合作
 
+
+### 职位列表
 
 - [C++ 软件开发工程师 - 留用实习生](campus/1.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
 - [Golang 软件开发工程师 - 留用实习生](campus/2.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)

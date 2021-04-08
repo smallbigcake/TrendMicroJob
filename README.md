@@ -21,9 +21,11 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [资深开发工程师 - Windows](social/11.md)
 - [资深开发工程师 - macOS](social/12.md)
 - [资深测试工程师](social/13.md)
-- [初级软件开发工程师](social/14.md)![new](https://img.shields.io/badge/new-brightengreen)
-- [资深开发工程师 - AWS/Azure SaaS Developer](social/15.md)![new](https://img.shields.io/badge/new-brightengreen)
-- [资深开发工程师 - SaaS - Mobile XDR](social/16.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [初级软件开发工程师](social/14.md)
+- [资深开发工程师 - AWS/Azure SaaS Developer](social/15.md)
+- [资深开发工程师 - SaaS - Mobile XDR](social/16.md)
+- [资深交互设计师 (UE)](social/17.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [开发工程师 - Node.js](social/18.md)![new](https://img.shields.io/badge/new-brightengreen)
 
 
 ## 实习生招聘
@@ -35,7 +37,7 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [实习生 - 软件测试](intern/6.md)
 - [实习生 - 视觉设计](intern/7.md)
 - [实习生 - 视频动画制作](intern/8.md)
-- [实习生 - 软件开发](intern/9.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [实习生 - 软件开发](intern/10.md)
 
 
 ## Introduction to Trend Micro

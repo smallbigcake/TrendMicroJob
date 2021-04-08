@@ -28,12 +28,12 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - 喜欢与国际极客团队合作
 
 
-- [C++ 软件开发工程师 - 留用实习生](campus/1.md)
-- [Golang 软件开发工程师 - 留用实习生](campus/2.md)
-- [Java 软件开发工程师 - 留用实习生](campus/3.md)
-- [Node.js 软件开发工程师 - 留用实习生](campus/4.md)
-- [Python 软件开发工程师 - 留用实习生](campus/5.md)
-- [测试开发工程师 - 留用实习生](campus/6.md)
+- [C++ 软件开发工程师 - 留用实习生](campus/1.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
+- [Golang 软件开发工程师 - 留用实习生](campus/2.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
+- [Java 软件开发工程师 - 留用实习生](campus/3.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
+- [Node.js 软件开发工程师 - 留用实习生](campus/4.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
+- [Python 软件开发工程师 - 留用实习生](campus/5.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
+- [测试开发工程师 - 留用实习生](campus/6.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
 
 
 ## 社会招聘

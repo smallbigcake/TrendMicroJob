@@ -33,12 +33,13 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 
 ### 职位列表
 
-- [C++ 软件开发工程师 - 留用实习生](campus/1.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
-- [Golang 软件开发工程师 - 留用实习生](campus/2.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
-- [Java 软件开发工程师 - 留用实习生](campus/3.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
-- [Node.js 软件开发工程师 - 留用实习生](campus/4.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
-- [Python 软件开发工程师 - 留用实习生](campus/5.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
-- [测试开发工程师 - 留用实习生](campus/6.md)![new](https://img.shields.io/badge/new-brightengreen) ![new](https://img.shields.io/badge/hot-red)
+- [C++ 软件开发工程师 - 留用实习生](campus/1.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
+- [Golang 软件开发工程师 - 留用实习生](campus/2.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
+- [Java 软件开发工程师 - 留用实习生](campus/3.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
+- [Node.js 软件开发工程师 - 留用实习生](campus/4.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
+- [Python 软件开发工程师 - 留用实习生](campus/5.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
+- [测试开发工程师 - 留用实习生](campus/6.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
+- [站点可靠性开发工程师 - 留用实习生](campus/7.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
 
 
 ## 社会招聘
@@ -58,8 +59,8 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [初级软件开发工程师](social/14.md)
 - [资深开发工程师 - AWS/Azure SaaS Developer](social/15.md)
 - [资深开发工程师 - SaaS - Mobile XDR](social/16.md)
-- [资深交互设计师 (UE)](social/17.md)![new](https://img.shields.io/badge/new-brightengreen)
-- [开发工程师 - Node.js](social/18.md)![new](https://img.shields.io/badge/new-brightengreen)
+- [资深交互设计师 (UE)](social/17.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [开发工程师 - Node.js](social/18.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
 
 
 ## 实习生招聘

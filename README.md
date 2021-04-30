@@ -44,13 +44,11 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 
 ## 社会招聘
 
-- [资深开发工程师 Linux C++](social/1.md)
 - [资深开发工程师 - SaaS - Cloud App Security](social/2.md)
 - [资深安全开发运维工程师](social/3.md)
 - [Senior Technical Writer 技术文档工程师](social/4.md)
 - [技术支持专家](social/6.md)
 - [前端工程师](social/7.md)
-- [Android 资深测试开发工程师](social/8.md)
 - [安全大数据系统研发工程师](social/9.md)
 - [资深开发工程师 - Cloud Service 开发](social/10.md)
 - [资深开发工程师 - Windows](social/11.md)
@@ -62,6 +60,8 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [资深交互设计师 (UE)](social/17.md)
 - [资深开发工程师 - Android](social/19.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
 - [Javascript 开发工程师](social/20.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [资深测试开发工程师](social/21.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [资深开发工程师 - Linux](social/21.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
 
 
 ## 实习生招聘

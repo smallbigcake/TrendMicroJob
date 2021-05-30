@@ -7,50 +7,13 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 推荐邮箱 cake_xu©trendmicro.com
 
 
-## 校园招聘 (留用实习生，2022/2023 届)
-
-留用实习生项目是针对 2022 年 5 月 - 12 月期间毕业的在校生开展的暑期实习项目，旨在通过参与项目实习的方式，尽可能地帮助同学们在技术领域获得更丰富的信息，并指导他们在职业领域内不断提升自我以取得成功。我们期望这段实习经历能成为同学们展望前沿科技的瞭望塔，实践业界技术的体验营，未来职业发展的加油站 。
-
-
-### 留用实习生项目将会为您提供如下福利：
-
-- 为期 8 周以上的暑期实习，我们将提供一对一的企业导师，带你提前体验工程师的 Daily Job，非南京本地高校的同学将额外提供租房津贴（具体实习入职时间可根据个人及学校情况灵活安排，原则上最晚入职时间不得晚于 2021 年 7 月 12 日）
-- 实习过程中表现优异的同学将直接发放正式校招 offer
-- 26 个花样俱乐部，解锁暑期新技能
-- 留用实习生专属内推码，享有正式员工同等内推奖励
-- 内部推荐校招依然接受内部推荐，通过内部推荐投递的简历，同等条件下优先录取！
-
-
-### 申请条件
-
-- 本科、研究生及以上学历，计算机，软件、网络安全、数学、人工智能等相关专业2022/2023届毕业生
-- 对于挑战新技术乐此不疲
-- 对所有事物充满好奇，并主动出击，探索原因
-- 对写程序有欲罢不能的热忱，同时期待并享受多彩的人生
-- 渴望站在世界的舞台，创造世界级的产品及服务
-- 喜欢与国际极客团队合作
-
-
-### 职位列表
-
-- [C++ 软件开发工程师 - 留用实习生](campus/1.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-- [Golang 软件开发工程师 - 留用实习生](campus/2.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-- [Java 软件开发工程师 - 留用实习生](campus/3.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-- [Node.js 软件开发工程师 - 留用实习生](campus/4.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-- [Python 软件开发工程师 - 留用实习生](campus/5.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-- [测试开发工程师 - 留用实习生](campus/6.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-- [站点可靠性开发工程师 - 留用实习生](campus/7.md)![NEW](https://img.shields.io/badge/NEW-brightengreen) ![HOT](https://img.shields.io/badge/HOT-red)
-
-
 ## 社会招聘
 
 - [资深开发工程师 - SaaS - Cloud App Security](social/2.md)
 - [资深安全开发运维工程师](social/3.md)
-- [Senior Technical Writer 技术文档工程师](social/4.md)
 - [技术支持专家](social/6.md)
 - [前端工程师](social/7.md)
 - [安全大数据系统研发工程师](social/9.md)
-- [资深开发工程师 - Cloud Service 开发](social/10.md)
 - [资深开发工程师 - Windows](social/11.md)
 - [资深开发工程师 - macOS](social/12.md)
 - [资深测试工程师](social/13.md)
@@ -58,10 +21,12 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [资深开发工程师 - AWS/Azure SaaS Developer](social/15.md)
 - [资深开发工程师 - SaaS - Mobile XDR](social/16.md)
 - [资深交互设计师 (UE)](social/17.md)
-- [资深开发工程师 - Android](social/19.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [Javascript 开发工程师](social/20.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [资深测试开发工程师](social/21.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [资深开发工程师 - Linux](social/21.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [资深开发工程师 - Android](social/19.md)
+- [Javascript 开发工程师](social/20.md)
+- [资深测试开发工程师](social/21.md)
+- [资深开发工程师 - Linux](social/22.md)
+- [Senior Data Scientist](social/23.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [资深预研工程师 Research Developer](social/24.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
 
 
 ## 实习生招聘
@@ -74,6 +39,11 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [实习生 - 视觉设计](intern/7.md)
 - [实习生 - 视频动画制作](intern/8.md)
 - [实习生 - 软件开发](intern/10.md)
+
+
+## 校园招聘 (2022/2023 届)
+
+敬请期待
 
 
 ## Introduction to Trend Micro

@@ -16,26 +16,22 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [初级软件开发工程师](social/14.md)
 - [资深开发工程师 - AWS/Azure SaaS Developer](social/15.md)
 - [资深交互设计师 (UE)](social/17.md)
-- [资深开发工程师 - Android](social/19.md)
 - [资深测试开发工程师](social/21.md)
 - [资深开发工程师 - Linux](social/22.md)
-- [Senior Data Scientist](social/23.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [资深预研工程师 Research Developer](social/24.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [资深运维开发工程师](social/25.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [大数据平台业务测试工程师](social/26.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [资深开发工程师 - SaaS](social/27.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [数据分析师](social/28.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [Senior Data Scientist](social/23.md)
+- [资深预研工程师 Research Developer](social/24.md)
+- [大数据平台业务测试工程师](social/26.md)
+- [资深开发工程师 - SaaS](social/27.md)
+- [Senior Visual Designer](social/29.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [资深开发工程师 - macOS/iOS](social/30.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
 
 
 ## 实习生招聘
 
-- [实习生 - 行政助理](intern/2.md)
 - [实习生 - MARS 威胁研究](intern/3.md)
 - [实习生 - MARS 开发](intern/4.md)
 - [实习生 - 开发测试](intern/5.md)
 - [实习生 - 软件测试](intern/6.md)
-- [实习生 - 视觉设计](intern/7.md)
-- [实习生 - 视频动画制作](intern/8.md)
 - [实习生 - 软件开发](intern/10.md)
 
 

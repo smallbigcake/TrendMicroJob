@@ -30,6 +30,7 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [大数据测试工程师](social/36.md)
 - [测试开发工程师](social/38.md)
 - [HRBP](social/39.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
+- [人事助理](social/40.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
 
 
 ## 实习生招聘
@@ -40,10 +41,6 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 - [实习生 - 软件测试](intern/6.md)
 - [实习生 - 软件开发](intern/10.md)
 
-
-## 校园招聘 (2022/2023 届)
-
-敬请期待
 
 
 ## Introduction to Trend Micro

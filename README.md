@@ -4,57 +4,32 @@ Job Referral for Trend Micro China Development Center (Nanjing)
 
 趋势科技中国研发中心（南京）招聘内推推荐
 
-推荐邮箱 cake_xu©trendmicro.com
+## 内推方式：
 
+使用以下链接投递，即属于内推：  
+[内推专属投递链接](https://neitui.italent.cn/trendmicro/sharejobs?shareId=021c12a5-535f-4383-ae9f-e935a0567f52)
 
-## 社会招聘
-
-- [Senior Data Scientist](social/23.md)
-- [资深预研工程师 Research Developer](social/24.md)
-- [Senior Visual Designer](social/29.md)
-- [资深开发工程师 - macOS/iOS](social/30.md)
-- [移动安全研发工程师](social/31.md)
-- [HRBP](social/39.md)
-
-### 新春专场（工作经验 1-3 年）
-
-- [SaaS 开发工程师 -- 新春专场](social/41.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [技术支持工程师 -- 新春专场](social/42.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [测试开发工程师 -- 新春专场](social/43.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [运维开发工程师 -- 新春专场](social/44.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [Linux 开发工程师 -- 新春专场](social/45.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [安全大数据研发工程师 -- 新春专场](social/46.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-
-
-## 校园招聘（2022 届补招）
-
-- [C++ 软件开发工程师](campus/1.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [Golang 软件开发工程师](campus/2.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [Java 软件开发工程师](campus/3.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [Node.js 软件开发工程师](campus/4.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [Python 软件开发工程师](campus/5.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-- [测试开发工程师](campus/6.md)![NEW](https://img.shields.io/badge/NEW-brightengreen)
-
-
-
-## 实习生招聘
-
-- [实习生 - MARS 威胁研究](intern/3.md)
-- [实习生 - MARS 开发](intern/4.md)
-- [实习生 - 开发测试](intern/5.md)
-- [实习生 - 软件测试](intern/6.md)
-- [实习生 - 软件开发](intern/10.md)
-
+如有关于内推岗位或公司信息的咨询，也可以联系本人公司邮箱： cake_xu©trendmicro.com
 
 
 ## Introduction to Trend Micro
 
-Trend Micro incorporated, a global leader in cybersecurity, helps to make the world safe for exchanging digital information. In an increasingly connected world, our innovative solutions for businesses, governments, and consumers provide layered security for data centers, cloud environments, networks, and endpoints.
+Trend Micro, a global cybersecurity leader, helps make the world safe for exchanging digital information. Fueled
+by decades of security expertise, global threat research, and continuous innovation, our unified cybersecurity
+platform protects over 500,000 organizations and millions of individuals across clouds, networks, devices, and
+endpoints.
 
-With 30 years of security expertise, Trend Micro has significant accolades: The market leader in server security since 2009, according to IDC, the most effective recommended Breach Detection solution five years running, according to NSS Labs, and a Leader in both the Gartner Magic Quadrant for Endpoint Protection Platforms and the Forrester Wave™ for Endpoint Security Suites. All of our solutions are powered by XGen™ security, a crossgenerational blend of threat defense techniques.
+The Trend Micro One unified cybersecurity platform delivers advanced threat defense techniques, extended detection and
+response (XDR), and integration across the IT ecosystem, including AWS, Microsoft, and Google, enabling organizations
+to better understand, communicate, and mitigate cyber risk.
 
-Our products work together to seamlessly share threat intelligence and provide a connected threat defense with centralized visibility, enabling better, faster protection and time to response. No matter what the security need, or how it may evolve over time, Trend Micro is the smart security choice.
+Trend Micro’s global threat research team delivers unparalleled intelligence and insights that power our
+cybersecurity platform and help protect organizations around the world from 100s of millions of threats daily.
 
+We have 7,000 employees across 65 countries, singularly focused on security and passionate about making the
+world a safer and better place.
+
+Trend Micro enables organizations to simplify and secure their connected world. [TrendMicro.com](https://www.trendmicro.com/)
 
 ## 趋势科技介绍
 
